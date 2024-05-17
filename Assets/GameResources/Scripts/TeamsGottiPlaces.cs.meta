@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1114a1ff96df34c49923acc77423ce2f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - team1GottiplacesPrefab: {fileID: 2101866301497752594, guid: 73fdc229a354e49789bca84278bdd40e, type: 3}
+  - team2GottiplacesPrefab: {fileID: 5819590954986848391, guid: 12c329502a0864986baf5c083fbd6835, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
